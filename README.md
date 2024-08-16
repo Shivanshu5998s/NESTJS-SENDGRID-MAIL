@@ -1,5 +1,5 @@
 # NESTJS-SENDGRID-MAIL
-ssss
+SendGrid is a cloud-based email delivery service that helps businesses manage and send transactional and marketing emails.
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
